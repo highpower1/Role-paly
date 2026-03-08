@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {
+      "tag": "ランダムモブ：女性",
+      "imagePath": [
+        "00007-3538592435.png",
+        "00006-987260868.png",
+        "00005-1818993298.png"
+      ],
+      "size": 12,
+      "align": "right"
+    },
+    {
+      "tag": "ランダムモブ：男性",
+      "imagePath": [
+        "https://example.com/mob_man_A.png",
+        "https://example.com/mob_man_B.png"
+      ],
+      "size": 15,
+      "align": "left"
+    },
+    {
+      "tag": "主人公",
+      "imagePath": "images/hero.png",
+      "size": 15,
+      "align": "left"
+    }
+  ]
+}
